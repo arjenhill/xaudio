@@ -1,6 +1,6 @@
+/* eslint-disable */
 (function() {
   let xaudio;
-
   app.controller('audioController', [
     '$scope',
     function($scope) {
