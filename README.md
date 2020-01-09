@@ -6,7 +6,7 @@ XAudioJS 是一款功能强大方便易用的 H5 背景音乐播放器
 
 使用 npm：
 
-`npm install XAudioJS --save`
+`npm install xaudiojs-cli --save`
 
 html：
 

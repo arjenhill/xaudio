@@ -1,5 +1,5 @@
 {
-  "name": "XAudioJS",
+  "name": "xaudiojs-cli",
   "version": "0.0.1",
   "description": "XAudioJS播放器",
   "main": "dist/XAudioJS.min.js",
